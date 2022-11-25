@@ -1,0 +1,231 @@
+{
+    "universos": [
+      {
+        "id": 1,
+        "nombre": "DC Comics",
+        "logo": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1666050483/heroes/jklsydsu6haahbys03u9.webp",
+        "historia": "DC Comics es una editorial de cómics estadounidense. Forma parte de DC Entertainment,1​ una de las empresas que conforman Warner Bros. Entertainment, la cual a su vez es propiedad de Warner Bros. Discovery. Fue fundada en 1934 bajo el nombre National Allied Publications, para luego tomar el nombre de DC Comics en 1938.\n\nLas ultimas entregas de los comics lo posicionan como el universo mas sobresaliente de los comics"
+      },
+      {
+        "id": 2,
+        "nombre": "Marvel",
+        "logo": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956196/heroes/marvel-banner_zdl3mi.webp",
+        "historia": "Marvel Worldwide, Inc., conocida como Marvel Comics, es una editorial de historietas estadounidense creada en 1939, inicialmente con el nombre de Timely Publications. Entre sus personajes emblemáticos del género superheroico se encuentran Spider-Man, Wolverine, X-Men, Capitán América, Iron Man, Hulk, Thor, Los 4 Fantásticos, Daredevil, Punisher, Los Vengadores, entre otros. A partir de los años 1990, la compañía se posicionó como una de las principales editoriales de cómics del país. El 31 de agosto de 2009, The Walt Disney Company compró Marvel Entertainment por cerca de 4 000 millones de dólares, fusionándose con esta el 1 de enero de 2010."
+      },
+      {
+        "id": 3,
+        "nombre": "Mortal Kombat",
+        "logo": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956198/heroes/kombat-banner_uuis60.png",
+        "historia": "Mortal Kombat (comúnmente abreviado MK) es una franquicia de videojuegos de lucha creada por Ed Boon y John Tobias en 1992. Las cuatro primeras entregas fueron distribuidas por Midway Games y lanzadas principalmente en máquinas arcade; posteriormente estuvieron disponibles en consolas domésticas. Los títulos de arcade fueron comprados más tarde por Acclaim Entertainment para las consolas caseras de esa época. La franquicia fue adquirida por Warner Bros en julio de 2009 y se convirtió en una parte de la Warner Bros. Interactive Entertainment. El título más reciente, Mortal Kombat 11, fue publicado en abril de 2019. Como resultado de su éxito, Mortal Kombat ha dado lugar a varias secuelas y se ha escindido en varios juegos de acción y aventura, ha tenido películas, series de televisión e historietas. La serie es conocida por su violencia gráfica, incluyendo particularmente los fatalities, un movimiento especial que para ser realizado se requiere hacer una combinación específica de botones, que posteriormente llevó a las empresas de videojuegos a crear la ESRB "
+      }
+    ],
+    "heroes": [
+      {
+        "id": 1,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956225/heroes/dc-batman_xv8it6.jpg",
+        "superhero": "Batman",
+        "publisher": "DC Comics",
+        "alter_ego": "Bruce Wayne",
+        "first_appearance": "Detective Comics #27",
+        "characters": "Bruce Wayne"
+      },
+      {
+        "id": 2,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/dc-superman_a8y4a7.jpg",
+        "superhero": "Superman",
+        "publisher": "DC Comics",
+        "alter_ego": "Kal-El",
+        "first_appearance": "Action Comics #1",
+        "characters": "Kal-El"
+      },
+      {
+        "id": 3,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/dc-flash_h0x9yk.jpg",
+        "superhero": "Flash",
+        "publisher": "DC Comics",
+        "alter_ego": "Jay Garrick",
+        "first_appearance": "Flash Comics #1",
+        "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      },
+      {
+        "id": 4,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/dc-green_ozey4c.jpg",
+        "superhero": "Green Lantern",
+        "publisher": "DC Comics",
+        "alter_ego": "Alan Scott",
+        "first_appearance": "All-American Comics #16",
+        "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+      },
+      {
+        "id": 5,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956227/heroes/marvel-hawkeye_w6viaq.jpg",
+        "superhero": "Green Arrow",
+        "publisher": "DC Comics",
+        "alter_ego": "Oliver Queen",
+        "first_appearance": "More Fun Comics #73",
+        "characters": "Oliver Queen"
+      },
+      {
+        "id": 6,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/dc-wonder_jx6flp.jpg",
+        "superhero": "Wonder Woman",
+        "publisher": "DC Comics",
+        "alter_ego": "Princesa Diana",
+        "first_appearance": "All Star Comics #8",
+        "characters": "Princesa Diana"
+      },
+      {
+        "id": 7,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/dc-martian_qaozdv.jpg",
+        "superhero": "Martian Manhunter",
+        "publisher": "DC Comics",
+        "alter_ego": "J\"onn J\"onzz",
+        "first_appearance": "Detective Comics #225",
+        "characters": "Martian Manhunter"
+      },
+      {
+        "id": 8,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956225/heroes/dc-robin_xx0s1f.jpg",
+        "superhero": "Robin/Nightwing",
+        "publisher": "DC Comics",
+        "alter_ego": "Dick Grayson",
+        "first_appearance": "Detective Comics #38",
+        "characters": "Dick Grayson"
+      },
+      {
+        "id": 9,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/dc-blue_sihafo.jpg",
+        "superhero": "Blue Beetle",
+        "publisher": "DC Comics",
+        "alter_ego": "Dan Garret",
+        "first_appearance": "Mystery Men Comics #1",
+        "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+      },
+      {
+        "id": 10,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956225/heroes/dc-black_q99rfq.jpg",
+        "superhero": "Black Canary",
+        "publisher": "DC Comics",
+        "alter_ego": "Dinah Drake",
+        "first_appearance": "Flash Comics #86",
+        "characters": "Dinah Drake, Dinah Lance"
+      },
+      {
+        "id": 11,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/marvel-spider_mtbh2q.jpg",
+        "superhero": "Spider Man",
+        "publisher": "Marvel",
+        "alter_ego": "Peter Parker",
+        "first_appearance": "Amazing Fantasy #15",
+        "characters": "Peter Parker"
+      },
+      {
+        "id": 12,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/marvel-captain_pazaic.jpg",
+        "superhero": "Captain America",
+        "publisher": "Marvel",
+        "alter_ego": "Steve Rogers",
+        "first_appearance": "Captain America Comics #1",
+        "characters": "Steve Rogers"
+      },
+      {
+        "id": 13,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/marvel-iron_cbfdq8.jpg",
+        "superhero": "Iron Man",
+        "publisher": "Marvel",
+        "alter_ego": "Tony Stark",
+        "first_appearance": "Tales of Suspense #39",
+        "characters": "Tony Stark"
+      },
+      {
+        "id": 14,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956227/heroes/marvel-thor_wvpf61.jpg",
+        "superhero": "Thor",
+        "publisher": "Marvel",
+        "alter_ego": "Thor Odinson",
+        "first_appearance": "Journey into Myster #83",
+        "characters": "Thor Odinson"
+      },
+      {
+        "id": 15,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/marvel-hulk_ro9k08.jpg",
+        "superhero": "Hulk",
+        "publisher": "Marvel",
+        "alter_ego": "Bruce Banner",
+        "first_appearance": "The Incredible Hulk #1",
+        "characters": "Bruce Banner"
+      },
+      {
+        "id": 16,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956227/heroes/marvel-wolverine_inry0u.jpg",
+        "superhero": "Wolverine",
+        "publisher": "Marvel",
+        "alter_ego": "James Howlett",
+        "first_appearance": "The Incredible Hulk #180",
+        "characters": "James Howlett"
+      },
+      {
+        "id": 17,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956227/heroes/marvel-daredevil_yjko64.jpg",
+        "superhero": "Daredevil",
+        "publisher": "Marvel",
+        "alter_ego": "Matthew Michael Murdock",
+        "first_appearance": "Daredevil #1",
+        "characters": "Matthew Michael Murdock"
+      },
+      {
+        "id": 18,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956227/heroes/marvel-hawkeye_w6viaq.jpg",
+        "superhero": "Hawkeye",
+        "publisher": "Marvel",
+        "alter_ego": "Clinton Francis Barton",
+        "first_appearance": "Tales of Suspense #57",
+        "characters": "Clinton Francis Barton"
+      },
+      {
+        "id": 19,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956226/heroes/marvel-cyclops_easxgk.jpg",
+        "superhero": "Cyclops",
+        "publisher": "Marvel",
+        "alter_ego": "Scott Summers",
+        "first_appearance": "X-Men #1",
+        "characters": "Scott Summers"
+      },
+      {
+        "id": 20,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1665956228/heroes/marvel-silver_yjd5vg.jpg",
+        "superhero": "Silver Surfer",
+        "publisher": "Marvel",
+        "alter_ego": "Norrin Radd",
+        "first_appearance": "The Fantastic Four #48",
+        "characters": "Norrin Radd"
+      },
+      {
+        "id": 375,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1666150442/heroes/mkzfdbg63j3chccvs9qa.jpg",
+        "superhero": "Reptile",
+        "publisher": "Mortal Kombat",
+        "alter_ego": "Reptile",
+        "first_appearance": "Moral Kombat 1",
+        "characters": "David Akano"
+      },
+      {
+        "id": 417,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1666225293/heroes/lvhktq7roxlfqlnavxy5.webp",
+        "superhero": "Deadpool",
+        "publisher": "Marvel",
+        "alter_ego": "Ryan Reynols",
+        "first_appearance": "Deadpool 1",
+        "characters": "Ryan Reynols"
+      },
+      {
+        "id": 802,
+        "url": "https://res.cloudinary.com/manuel-munoz-guti/image/upload/v1666232391/heroes/qk4tsxnrkrgwaekc8y2o.jpg",
+        "superhero": "Subzero",
+        "publisher": "Mortal Kombat",
+        "alter_ego": "Lin Kuei",
+        "first_appearance": "comic Mortal Kombat#2",
+        "characters": "Mac Macgregor"
+      }
+    ]
+  }
