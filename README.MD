@@ -6,7 +6,7 @@ API REST FOR API HEROES APP VUE JS
  `docker build -t jsonserver .`
 
 ## Run the dockerfile
- `docker run --rm -it --name jsonserver-container -p 8082:8082 jsonserver`
+ `docker run --rm -it --name jsonserver-container -p 3333:3333 jsonserver`
 
 ## Test REST API
  Resources
